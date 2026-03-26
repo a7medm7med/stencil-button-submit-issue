@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <form>
-          <input type="text" name="ahmed" />
+          <input type="text" name="name" />
           <br />
          <PlantButton type="submit">
           <span >Item Count</span>
